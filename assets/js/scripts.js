@@ -1,1 +1,2 @@
-// This file is intentionally left blank.
+// Add interactivity if needed
+console.log("Welcome to My Portfolio!");
